@@ -1,0 +1,3 @@
+variable "var" {
+    value "version 1" {}
+}
